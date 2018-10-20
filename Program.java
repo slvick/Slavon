@@ -16,7 +16,7 @@ public class Program {
 			b[x - k - 1] = a[k];
 		}
 		for (int k = 0; k < x; k++) {
-			System.out.print(b[k] + " ");
+			System.out.print(b[k]);
 		}
 		
 	}
